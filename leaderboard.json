@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "nickname": "Test",
+    "score": 123,
+    "agreed_terms": 5,
+    "date": "2026-10-15T09:33:17.132Z"
+  }
+]
