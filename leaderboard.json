@@ -34,5 +34,11 @@
     "score": 123,
     "agreed_terms": 5,
     "date": "2026-10-15T09:33:17.132Z"
+  },
+  {
+    "nickname": "test2",
+    "score": 106,
+    "agreed_terms": "1",
+    "date": "2026-11-24T18:13:10.951Z"
   }
 ]
