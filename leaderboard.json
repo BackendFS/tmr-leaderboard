@@ -37,6 +37,12 @@
   },
   {
     "nickname": "test2",
+    "score": 164,
+    "agreed_terms": "1",
+    "date": "2026-11-24T18:38:13.169Z"
+  },
+  {
+    "nickname": "test2",
     "score": 153,
     "agreed_terms": "1",
     "date": "2026-11-24T18:14:49.351Z"
