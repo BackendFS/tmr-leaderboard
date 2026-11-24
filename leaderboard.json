@@ -97,6 +97,12 @@
   },
   {
     "nickname": "test2",
+    "score": 96,
+    "agreed_terms": "1",
+    "date": "2026-11-24T19:06:16.402Z"
+  },
+  {
+    "nickname": "test2",
     "score": 80,
     "agreed_terms": "1",
     "date": "2026-11-24T18:50:56.708Z"
